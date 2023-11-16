@@ -1,15 +1,7 @@
 # wakey-wakey
 
-To install dependencies:
+Wakey-Wakey, your personal sleep assistant! Optimizing your sleep schedule based on sleep cycles and calendar events. Set your own wake-up times or let us do it for you. Sleep better, live better!
 
-```bash
-bun install
-```
+## Inspiration
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.0.11. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+[name of the project](https://www.youtube.com/shorts/kBoKoZj2-DU)
